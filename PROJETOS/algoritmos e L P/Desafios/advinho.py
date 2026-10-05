@@ -1,4 +1,6 @@
+#criar um hogo simples de adivinho 
 
+import random
 jogador = 0
 computador = random.randint(1, 20)
 
